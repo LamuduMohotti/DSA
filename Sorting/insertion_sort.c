@@ -20,7 +20,6 @@ int main(){
 	}
 	
 	return 0;
-//	int array[]
 }
 
 void insertion_sort(int arr[],int n){
