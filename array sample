@@ -1,0 +1,43 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */ 
+    int n ,g ,i ,j;
+    int q;
+    int a1;
+    int a[10];
+        cin >> n ;
+        cin >> q ;
+        g = 0;
+     while(g < n){
+
+         cin >> a ;
+
+         for(i=0;i<a;i++){
+             cin >> a[i] ;
+         }
+
+        g++;
+
+  	 	
+	 	
+	 	d++;
+	 }  
+     } 
+	 int d = 0;
+	 while(d < q){
+	 	
+	 	cin >> i;
+	 	cin >> j;
+
+
+    return 0;
+}
+
+
